@@ -1,0 +1,36 @@
+{
+    "entities":{
+        "author":{
+            "dani123@gmail.com":{
+                "id":"dani123@gmail.com",
+                "name":"Daniel",
+                "lastname":"Vasquez",
+                "age":25,
+                "alias":"dani123",
+                "avatar":"url.com"
+                },
+            "sergio@gmail.com":{
+                "id":"sergio@gmail.com",
+                "name":"sergio",
+                "lastname":"prusza",
+                "age":25,
+                "alias":"nicky",
+                "avatar":"url.com"
+                }
+            },
+            "messages":{
+                "1":{
+                    "author":"dani123@gmail.com",
+                    "text":"Hola, buenas noches!",
+                    "time":"1/24/2023, 8:19:59 PM",
+                    "id":25
+                },
+                "2":{
+                    "author":"sergio123@gmail.com",
+                    "text":"hola, como estas",
+                    "time":"1/24/2023, 8:20:22 PM",
+                    "id":26
+                }
+            }
+        },
+    "result":[1,2]}
